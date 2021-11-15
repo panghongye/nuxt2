@@ -14,10 +14,13 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.15.1",
     "element-ui": "^2.15.2",
+    "mand-mobile": "^2.5.20",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "eslint": "^8.0.1",
-    "sass": "^1.39.0"
+    "sass": "^1.39.0",
+    "stylus": "^0.55.0",
+    "stylus-loader": "^6.2.0"
   }
 }
