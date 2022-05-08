@@ -13,9 +13,13 @@
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.15.1",
-    "element-ui": "^2.15.2",
+    "element-ui": "^2.15.8",
     "mand-mobile": "^2.5.20",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "sortablejs": "^1.15.0",
+    "vant": "^2.12.45",
+    "vcolorpicker": "^1.1.0",
+    "vue-virtual-scroller": "^1.0.10"
   },
   "devDependencies": {
     "eslint": "^8.0.1",
