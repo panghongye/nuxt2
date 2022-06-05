@@ -1,5 +1,5 @@
 <template>
-  <el-select v-model="v.id" filterable placeholder="搜索选择" @change="tt">
+  <el-select  v-model="v.id" filterable placeholder="搜索选择" @change="tt">
     <el-option v-for="item in teamsList" :key="item.id" :value="item.id" :label="item.name">{{item.name}}aa</el-option>
   </el-select>
 </template>
